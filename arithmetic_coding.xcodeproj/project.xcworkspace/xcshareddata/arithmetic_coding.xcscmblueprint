@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1D9284662B1FA71D5B88FF034FF87E1593D7EABD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "99D1473091DD97B8E4030C53CC481F250BAAB6DD" : 0,
+    "1D9284662B1FA71D5B88FF034FF87E1593D7EABD" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AFE4341D-866B-4F83-8620-C5BF5EC9C0C4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "99D1473091DD97B8E4030C53CC481F250BAAB6DD" : "arithmetic_cod\/",
+    "1D9284662B1FA71D5B88FF034FF87E1593D7EABD" : "arithmetic_coding\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "arithmetic_coding",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "arithmetic_coding.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wa9035148\/arithmeticCoding",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1D9284662B1FA71D5B88FF034FF87E1593D7EABD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wa9035148\/arithmetic_coding",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "99D1473091DD97B8E4030C53CC481F250BAAB6DD"
+    }
+  ]
+}

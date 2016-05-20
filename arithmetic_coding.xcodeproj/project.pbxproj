@@ -239,6 +239,7 @@
 				D216C1981CEF54FB006F9569 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
